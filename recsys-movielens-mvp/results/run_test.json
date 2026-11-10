@@ -1,0 +1,12 @@
+{
+  "stage": "test",
+  "models": [
+    "Popular",
+    "AlsoWatched",
+    "ContentBased",
+    "ItemKNN",
+    "TwoTower"
+  ],
+  "epochs": null,
+  "description": "Результаты вычислены main.py"
+}
